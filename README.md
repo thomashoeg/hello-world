@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Dette er bare en test for å se hvordan git fungerer.
